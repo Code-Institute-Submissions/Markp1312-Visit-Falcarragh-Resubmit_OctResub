@@ -90,3 +90,13 @@ nav a {
     padding: 10px;
     font-size: 150%;
 }
+
+/* History-Section */
+
+#history-container {
+
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    font-size: 150%;
+}
