@@ -82,3 +82,11 @@ nav a {
     width:100%;
     object-fit: contain;
 }
+
+#welcome-container {
+
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    font-size: 150%;
+}
