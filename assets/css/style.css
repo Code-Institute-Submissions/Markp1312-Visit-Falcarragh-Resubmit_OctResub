@@ -50,3 +50,27 @@ header {
     padding: 0.5em;
     line-height: 40px;
 }
+
+/* Navigation Menu */
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav {
+    float: right;
+    line-height: 40px;
+    font-size: 120%;
+}
+
+nav li {
+    float:left;
+    list-style-type: none;
+    margin-left: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color:#115500;
+}
