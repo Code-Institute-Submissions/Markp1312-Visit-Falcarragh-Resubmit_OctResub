@@ -34,3 +34,19 @@ header {
     z-index: 1;
     background-image: linear-gradient(green, yellow);
 }
+
+/* Positioning of Logo and tekst */
+
+#logo img {
+    float:left;
+    height: 60px;
+    padding-right: 0.25em;
+    padding-left: 0.25em;
+}
+
+#logo h1 {
+    float:left;
+    font-size:150%;
+    padding: 0.5em;
+    line-height: 40px;
+}
