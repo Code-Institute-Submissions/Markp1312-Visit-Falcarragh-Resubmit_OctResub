@@ -75,7 +75,7 @@ The following warning is showing but I have decided to not add text to the Hero 
 
 ### Images
 
-- Images appeared pixelated. I have checked the images and replaced home-hero for a better image.
+- Some images appeared pixelated i have corrected the ones that I thought were pixelated.
 
 
 ## Credits
