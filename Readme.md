@@ -53,7 +53,7 @@ The Footer section is visable on all pages and encourages users to get in touch.
 [W3C Official Validation Tool](https://validator.w3.org/ "W3C Validator") & [My GitHub Pages](https://github.com/Markp1312/Visit-Falcarragh-Resubmit/blob/main "Mark's GitHub Repo") 
 
 The following warning is showing but I have decided to not add text to the Hero Section.
-![warning](https://github.com/Markp1312/Visit-Falcarragh-Resubmit/blob/main/assets/images/warning.jpg "HTML Warning")
+![warning](https://github.com/Markp1312/Visit-Falcarragh-Resubmit/blob/main/assets/images/Warning.jpg "HTML Warning")
 
 - __CSS__ - No errors are shown when checking CSS file through Jigsaw Validation Tool.
 [Jigsaw Official Validation Tool](https://jigsaw.w3.org/css-validator/ "CSS Validator") & [My GitHub Pages](https://github.com/Markp1312/Visit-Falcarragh-Resubmit/blob/main "Mark's GitHub Repo")
