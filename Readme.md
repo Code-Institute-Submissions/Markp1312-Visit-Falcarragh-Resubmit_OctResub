@@ -71,6 +71,13 @@ The following warning is showing but I have decided to not add text to the Hero 
 4. Once this has been selected, a lint will appear that shows that you webpage has been deployed.
 5. The link to the webpage can be found here: [Visit Falcarragh](https://markp1312.github.io/Visit-Falcarragh-Resubmit/)
 
+## Bugs and Fixes
+
+### Images
+
+- Images appeared pixelated. I have checked the images and replaced home-hero for a better image.
+
+
 ## Credits
 
 ### Content
