@@ -227,3 +227,18 @@ form {
     margin-bottom: 2em;
 }
 }
+
+/* Nav menu and footer <340px */
+
+@media screen and (max-width: 340px) {
+    nav {
+    font-size: 100%;
+    float: left;
+    line-height: 30px;
+    }
+    .social-networks i {
+        font-size: 100%;
+        margin: 1%;
+        padding: 5%;
+    }
+}
